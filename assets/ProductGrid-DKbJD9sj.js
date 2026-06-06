@@ -1,0 +1,1 @@
+import{o as e,s as t}from"./index-CDD-MVN6.js";import n from"./ProductCard-CyhDuKXM.js";t();var r=e();function i({products:e}){return!e||e.length===0?null:(0,r.jsx)(`div`,{className:`grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6`,children:e.map(e=>(0,r.jsx)(n,{product:e},e.id))})}export{i as default};
